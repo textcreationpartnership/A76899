@@ -1,0 +1,181 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bloudy nevves from sea: a perfect narrative of a great and bloudy fight between the English fleet commanded by General Blake, and the Dutch navy upon the Northern seas. With the particulars thereof, the occasion and manner of their engagement, and the number of ships sunk and taken. Also, a great victory obtained against the Hollanders by Sir George Ascue upon the coast of France, the manner of the fight, and the number of ships burnt, sunk, and taken by the English there. Likewise, Vantrump's Challenge, sent to General Blake, to fight him on the coast of Flanders, or the Narrow-Seas: with the great preparations that are making in Holland of men, mony, and other provisions to resist the English.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76899</idno>
+            <idno type="STC">Wing B3277</idno>
+            <idno type="STC">Thomason E669_11</idno>
+            <idno type="STC">ESTC R207027</idno>
+            <idno type="EEBO-CITATION">99866102</idno>
+            <idno type="PROQUEST">99866102</idno>
+            <idno type="VID">118364</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76899)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118364)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 103:E669[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Bloudy nevves from sea: a perfect narrative of a great and bloudy fight between the English fleet commanded by General Blake, and the Dutch navy upon the Northern seas. With the particulars thereof, the occasion and manner of their engagement, and the number of ships sunk and taken. Also, a great victory obtained against the Hollanders by Sir George Ascue upon the coast of France, the manner of the fight, and the number of ships burnt, sunk, and taken by the English there. Likewise, Vantrump's Challenge, sent to General Blake, to fight him on the coast of Flanders, or the Narrow-Seas: with the great preparations that are making in Holland of men, mony, and other provisions to resist the English.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by B.A.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "July. 6".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Blake, Robert, 1599-1657.</term>
+               <term>Tromp, Maarten Harpertsz., 1598-1653.</term>
+               <term>Ayscue, George, --  Sir, fl. 1646-1671.</term>
+               <term>Anglo-Dutch War, 1652-1654 --  Early works to 1800.</term>
+               <term>Naval battles --  Early works to 1800.</term>
+               <term>Great Britain --  History, Naval --  Stuarts, 1603-1714 --  Early works to 1800.</term>
+               <term>Netherlands --  History --  1648-1714 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118364:1" rendition="simple:additions"/>
+            <p>Bloudy NEVVES FROM SEA: A perfect Narrative of a great and bloudy Fight between the Engliſh Fleet commanded by Gene<g ref="char:EOLhyphen"/>ral Blake, and the Dutch Navy upon the Northern SEAS.</p>
+            <p>With the particulars thereof, the occaſion and manner of their Engagement, and the number of ſhips ſunk and taken.</p>
+            <p>Alſo, A great Victory obtained againſt the Hollanders by Sir George Aſcue upon the Coaſt of France, the manner of the Fight, and the number of ſhips burnt, ſunk, and taken by the Engliſh there.</p>
+            <p>LIKEWISE, Vantrump's Challenge, ſent to General Blake, to fight him on the coaſt of Flanders, or the Narrow-Seas: With the great preparations that are making in Holland of men, mony, and other proviſions to reſiſt the Engliſh.</p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>B. A.</hi> 1652.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:118364:2"/>
+            <pb n="3" facs="tcp:118364:2"/>
+            <head>Several great FIGHTS AT SEA Between The Engliſh and the Hollander, with the particulars thereof, and the number ſunk and taken.</head>
+            <div type="letter">
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>THe Embaſſadours of the United Provinces ha<g ref="char:EOLhyphen"/>ving been long in Treaty with the Parliament, and yet notwithſtanding have given no reaſonable ſa<g ref="char:EOLhyphen"/>tisfaction to the juſt demands of this Common-wealth, and being ſince remanded by their maſters the States; his
+<pb n="4" facs="tcp:118364:3"/>Excellency General Blake thought it not good any longer to protract time, but vigorouſly (for the honour of this Common-wealth) to proſecute the work in hand, and to fight the Hollanders whereſoever he can meet them; with this reſolution he ſet ſail with a gallant Fleet of ſhips towards the Northern ſeas, there to diſturb and give a check to the inſolency of the Dutch, whom he un<g ref="char:EOLhyphen"/>derſtood in great numbers to be fiſhing upon our Eng<g ref="char:EOLhyphen"/>liſh ſeas; leaving Sir George Aſcue to command the reſt of the Fleet in the Downs.</p>
+               <p>He had not ſailed far, but that he made a diſcovery of certain Hollanders, whom he purſued ſo cloſe that he for<g ref="char:EOLhyphen"/>ced them to ingage, and after ſome ſmal diſpute, he boar<g ref="char:EOLhyphen"/>ded four, two whereof were men of war, the other were Marchants ſhips, laden with many rich commodities, all the reſt were diſperſed up and down, being not able in that haſt to keep company with each other.</p>
+               <p>His Excellency then ſet forward in his courſe North<g ref="char:EOLhyphen"/>ward, and according to his intelligence, he found the Dutch fiſhing, with many men of war that attended them for their preſent guard, and to convoy them home; his Excellency comming near them, ſaluted them firſt with one ſingle gun, thereby willing them (it being the cuſtome at ſea) to lore their Top-ſails, and ſubmit to the Common-wealth of England, but (their ſpirits being heightned with the preſumption of their own ſtrength) they refuſed, anſwering him with a broad ſide, and af<g ref="char:EOLhyphen"/>ter that with another, whereupon both parties inga<g ref="char:EOLhyphen"/>ged, maintaining a gallant diſpute with great reſolution, for a good ſpace; for having before elevated their ſpi<g ref="char:EOLhyphen"/>rits with Brandy wine, <hi>viz.</hi> Strong-water, they ſtout<g ref="char:EOLhyphen"/>ly maintained their decks; but it pleaſed the Lord of Hoſts at laſt to crown our Fleet with victory, ſo that they ſunk two, took four, all men of war, with about an
+<pb n="5" facs="tcp:118364:3"/>hundred ſail of Fiſhermen, which they brought all ſafe into our Harbours in Scotland.</p>
+               <closer>
+                  <dateline>From aboard the Iames, <date>Iuly the 1. 1652.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>A Letter from Rotterdam.</head>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>WE heare no talk now but of making great prepa<g ref="char:EOLhyphen"/>rations to defend our ſelves and ſhips againſt your ſhips, who we hear take all they can meet withall at ſea; this hath cauſed a generall alarm throughout the Coun<g ref="char:EOLhyphen"/>trey, and men and money are raiſing apace to make our party good againſt you; for by your laſt anſwer given to our Embaſſadors with you, we do conceive that you in<g ref="char:EOLhyphen"/>tend war to this State; who in moſt places of this Coun<g ref="char:EOLhyphen"/>try are no ways ſorry for it; for till we have beaten you at ſea, we think we ſhall never be able with treating to bring you to accept of ſuch terms of our own, as we have given to other nations by being Maſters at ſea. We think out ſelves capable and ſufficient to do it, or elſe we would never have begun with you: and whereas you expect ſa<g ref="char:EOLhyphen"/>tisfaction, we may chance to demand the like of you with double intereſt for the charges you have now put us to, by your lofty carriage at ſea, this hath ſo much in<g ref="char:EOLhyphen"/>cenſed our common ſort of people, that unleſſe ſome ſudden courſe be taken by the Magiſtrates to right them againſt the Engliſh, they will raiſe inſurrections, and re<g ref="char:EOLhyphen"/>venge themſelves on the Magiſtrates, who dare hardly walk the ſtreets for fear of being miſuſed by the peeple in generall.</p>
+            </div>
+            <div type="letter">
+               <pb n="6" facs="tcp:118364:4"/>
+               <head>A Letter from Dublin in Ireland.</head>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>I Promiſed you an account of the laying down of arms by the enemy upon this laſt agreement; but my pud<g ref="char:EOLhyphen"/>dering buſineſs doth ſo turmoil me, that I know not whe<g ref="char:EOLhyphen"/>ther I have performed that task or no, my fickle memo<g ref="char:EOLhyphen"/>ry in the hurty of affairs, doth not inform me concerning my performance of that promiſe; but to be ſure, I ſhaſ now give you a full account, as briefly as may be: Dun<g ref="char:EOLhyphen"/>gon, Scurlock, Weſtmeath, and the Lord of Clonma<g ref="char:EOLhyphen"/>leer, did bring in part of the forces, in all about the num<g ref="char:EOLhyphen"/>ber of 800 at the moſt; the reſt, being near ſo many thouſands, ſtill doth refuſe to ſubmit, being they are not pardoned for their murthers, and we are as well conten<g ref="char:EOLhyphen"/>ted that the war is now clearly ſtated upon that account. The Lord of Clanrickard is about Letrim with a conſi<g ref="char:EOLhyphen"/>derable Army, my Lord Preſident, and Commiſſary General Reynolds, are both at Slego to take that in, Colo<g ref="char:EOLhyphen"/>nel Venables is fortifying Belturbet, the Lieut. General, and Major General, and the Lord of Broghil are all gone into Kerry to ſubdue Muskerry: The Lord Taaff is here<g ref="char:EOLhyphen"/>abouts with the Byrons, Coales, Conways and Grace, who all keep in ſeveral great faſtneſſes, and by means of the great Woods and Mountains, eaſily eſcape me; but I am fortifying ſeveral places near them, and now an fi<g ref="char:EOLhyphen"/>niſhing Tullon, from whence I newly came hither for ſome accommodations to fortifie Dedrum. As I lay at Tullon laſt week, there was an ambuſh laid by Captain
+<pb n="7" facs="tcp:118364:4"/>Conway, and Captain Line, for Collonel Pritty, who was comming from Carlow to me, with a guard of ren horſe: I did hear of it, and diſpatched away two parties from my Camp; the enemy had engaged Collonel Prit<g ref="char:EOLhyphen"/>ty, killed two, and took Captain Miller and four Troo<g ref="char:EOLhyphen"/>pers priſoners, but Collonel Pritty eſcaped; the parties diſpatched out purſued them cloſe, and killed four, relea<g ref="char:EOLhyphen"/>ſed Captain Miller, took Captain Line and one more, and ſixteen good horſes, their riders eſcaped in the Bogs. That night I ſent out a party of horſe and foot to the Briſ<g ref="char:EOLhyphen"/>cales, who killed above fourty, and took thirty good horſe, and returned; here Mr. Phelim ſent his Trumpet<g ref="char:EOLhyphen"/>ter to me for to grant Captain Line a Parol, I returned him no anſwer, owning him as a murtherer and wood<g ref="char:EOLhyphen"/>kern, and upon that ſcore intend to proſecute him, ſent him word that I would not give nor take quarter with him, nor any of his party, and by a Proclamation which I ſent him by his Trumper, offered 200 li. for any to ex<g ref="char:EOLhyphen"/>ecute him upon his own lentence of not comming in up<g ref="char:EOLhyphen"/>on the Agreement, but ſtanding out as a murtherer, there<g ref="char:EOLhyphen"/>fore if any ſhould bring me his body or head, I would give them 200. li.</p>
+               <closer>
+                  <salute>Sir,</salute> 
+                  <signed>I am Your humble Servant <hi>J. H.</hi>
+                  </signed>
+                  <dateline>
+                     <hi>Dublin,</hi> 
+                     <date>
+                        <hi>Iune</hi> 20. 1652.</date>
+                  </dateline>
+               </closer>
+               <postscript>
+                  <head>Poſtiſcript.</head>
+                  <p>Since I writ this Letter, I have certain intelligence, that Slego is ſurrendred, and that Sir Theophilus Jones with a party of Horſe of Dragoons, killed two Collonels, ten Captains, and three hundred of a party of three thouſand he met with in the County of Cavan, and took all their horſe; and that the Liev. Gen. Ludlow fell upon a party of the enemy near the Lough, killed many, took a great quantity of powder and ammunition, and 60 horſe.</p>
+                  <pb n="8" facs="tcp:118364:5"/>
+                  <p>From the Downs we received intelligence, that Sir George Aſcue, whom Generall Blake left to command the reſt of the Engliſh Fleet in the Downs, is very act<g ref="char:EOLhyphen"/>ive and vigilant to diſcharge the truſt repoſed in him, and receiving intelligence of about 45 fail of Hollanders, that were on the coaſt of France, he reſolved to fight them; ſo ſetting ſail towards them, it was not long before he deſ<g ref="char:EOLhyphen"/>cried them, and comming near them, he preſented them with a broad-ſide, they anſwered him with the like, whereupon hapned a very deſperate ingagement, but af<g ref="char:EOLhyphen"/>ter a very hot and bloudy diſpute, which continued for about 2 hours with great gallantry and reſolution, Sir G. Aſcue became victor, took 7 of them, ſunk and burned four, and forced about twenty four more of them to run on ground on the French ſhore, all which we conceive cannot poſſible eſcape ſhipwrack. The reſt of the Hol<g ref="char:EOLhyphen"/>landers Sir George is in very hot purſuit of. It is repor<g ref="char:EOLhyphen"/>ted by ſome that the Rubey is ſunk, which (if true) would prove a very great loſſe, ſhe carrying 42 guns, and about 480 men. It is alſo reported that Vantrump hath ſent a letter to Gen Blake, wherein he challengeth him to fight him upon equall terms, upon the coaſt of Flanders or the narrow ſeas; but it is believed his heart will hardly ſerve him to make good his challenge.</p>
+               </postscript>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
